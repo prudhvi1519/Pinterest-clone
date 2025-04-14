@@ -21,13 +21,13 @@ A simple Pinterest clone built with Django. **Users can upload pins, like pins, 
    cd Pinterest-clone/pinterest_clone
 3. Install dependencies (if using a virtual environment):
    pip install -r requirements.txt
-   --**Note:** If you don't have a requirements.txt, install Django manually using:
+--**Note:** If you don't have a requirements.txt, install Django manually using:
       pip install django
-4. Run migrations:
+5. Run migrations:
    python manage.py migrate
-5. Run the development server:
+6. Run the development server:
    python manage.py runserver
-6. Visit http://127.0.0.1:8000/ in your browser.
+7. Visit http://127.0.0.1:8000/ in your browser.
 
 ---
 
