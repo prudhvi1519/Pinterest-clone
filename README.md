@@ -15,8 +15,8 @@ A simple Pinterest clone built with Django. **Users can upload pins, like pins, 
 
 ## 💻 Installation
 
- **1.** Clone the repository:
-   git clone https://github.com/prudhvi1519/Pinterest-clone.git
+   **1.** Clone the repository:
+      git clone https://github.com/prudhvi1519/Pinterest-clone.git
 
  **2.** Navigate to the project directory:
    cd Pinterest-clone/pinterest_clone
