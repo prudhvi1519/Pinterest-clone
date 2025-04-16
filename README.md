@@ -68,5 +68,5 @@ A simple Pinterest clone built with Django. **Users can upload pins, like pins, 
 
 ---
 
-## License
+## 📜 License
 This project is open-source and available under the MIT License.
