@@ -65,3 +65,8 @@ A simple Pinterest clone built with Django. **Users can upload pins, like pins, 
 4. Make your changes and commit (git commit -am 'Add new feature').
 5. Push to your branch (git push origin feature-name).
 6. Create a new pull request.
+
+---
+
+## License
+This project is open-source and available under the MIT License.
