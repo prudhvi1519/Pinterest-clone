@@ -34,7 +34,7 @@ A simple Pinterest clone built with Django.
 
 3. Navigate to the project directory:
    ```bash
-   cd Pinterest-clone/pinterest_clone
+   cd "Pinterest Clone"
    ```
 
 5. Install dependencies (if using a virtual environment):
