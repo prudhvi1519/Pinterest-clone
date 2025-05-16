@@ -71,9 +71,9 @@ A simple Pinterest clone built with Django. **Users can upload pins, like pins, 
 
 1. Fork the repository.
 2. Clone your fork.
-3. Create a new branch (git checkout -b feature-name).
-4. Make your changes and commit (git commit -am 'Add new feature').
-5. Push to your branch (git push origin feature-name).
+3. Create a new branch (`git checkout -b feature-name`).
+4. Make your changes and commit (`git commit -am 'Add new feature'`).
+5. Push to your branch (`git push origin feature-name`).
 6. Create a new pull request.
 
 ---
