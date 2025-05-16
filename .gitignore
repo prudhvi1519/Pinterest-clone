@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+__pycache__
 *.py[cod]
 *$py.class
 
@@ -7,12 +8,6 @@ __pycache__/
 **/migrations/*.pyc
 **/migrations/__pycache__/
 **/migrations/*.py
-
-# Media files (optional: comment out if you want to keep images)
-media/pins/*.jpg
-media/pins/*.jpeg
-media/pins/*.png
-media/pins/*.webp
 
 # VS Code settings
 .vscode/
