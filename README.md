@@ -27,24 +27,36 @@ A simple Pinterest clone built with Django. **Users can upload pins, like pins, 
 ## 💻 Installation
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/prudhvi1519/Pinterest-clone.git
+   ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+   ```bash
    cd Pinterest-clone/pinterest_clone
+   ```
 
-3. Install dependencies (if using a virtual environment):
+5. Install dependencies (if using a virtual environment):
+   ```bash
    pip install -r requirements.txt
+   ```
 
    --**Note:** If you don't have a requirements.txt, install Django manually using:
+      ```bash
       pip install django
+      ```
 
-4. Run migrations:
+7. Run migrations:
+   ```bash
    python manage.py migrate
+   ```
 
-6. Run the development server:
+9. Run the development server:
+   ```bash
    python manage.py runserver
+   ```
 
-7. Visit http://127.0.0.1:8000/ in your browser.
+11. Visit ```bash http://127.0.0.1:8000/``` in your browser.
 
 ---
 
