@@ -41,7 +41,7 @@ A simple Pinterest clone built with Django. **Users can upload pins, like pins, 
    pip install -r requirements.txt
    ```
 
-   --**Note:** If you don't have a requirements.txt, install Django manually using:
+   **Note:** If you don't have a requirements.txt, install Django manually using:
          `pip install django`
 
 7. Run migrations:
