@@ -54,7 +54,7 @@ A simple Pinterest clone built with Django. **Users can upload pins, like pins, 
    python manage.py runserver
    ```
 
-11. Visit ` http://127.0.0.1:8000/ ` in your browser.
+11. Visit http://127.0.0.1:8000/ in your browser.
 
 ---
 
