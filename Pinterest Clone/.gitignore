@@ -1,27 +1,47 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
-__pycache__
 *.py[cod]
-*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
 
-# Django migrations
-**/migrations/*.pyc
-**/migrations/__pycache__/
-**/migrations/*.py
+# Django
+*.log
+*.pot
+*.pyc
+*.mo
+*.db
+*.sqlite3
+*.sqlite3-journal
 
-# VS Code settings
-.vscode/
-
-# Environment files
+# Environment
 .env
-*.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
-# OS files
+# VS Code and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Python virtual environment
-venv/
-env/
-ENV/
-.venv/
+# Others
+coverage/
+htmlcov/
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
